@@ -1,10 +1,14 @@
-# msc-cog-neuro-handbook
+# MSc Cognitive Neuroscience Handbook
 
-MSc Cognitive Neuroscience Handbook
+<center>
+<img src="scanning-spmic.jpg" width="100%" alt-text="group of students collecting data at imaging centre">
+</center>
+
+Denis Schluppeck, 2022-07-05
 
 ## Mission statement
+
 > The MSc in *Cognitive Neuroscience* is an exciting research-led programme that provides an in-depth grounding in **brain imaging techniques** and **neuroscience research**. Teaching is delivered through a combination of lectures, practical classes, workshops and **hands-on** projects.
-> 
 
 ## People
 
@@ -35,5 +39,8 @@ MSc Cognitive Neuroscience Handbook
 
 
 ## Links
+
+- Overview of the course in [2021 Virtual Open Day slides](2021-12-08-virtualOpenDay/2021-12-08-virtualOpenDay-ds.md)
+
 
 - [MSc Cognitive Neuroscience Prospectus](https://www.nottingham.ac.uk/pgstudy/course/taught/cognitive-neuroscience-msc)
