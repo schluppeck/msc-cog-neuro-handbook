@@ -40,7 +40,7 @@ Denis Schluppeck, 2022-07-05
 
 ## Links
 
-- Overview of the course in [2021 Virtual Open Day slides](2021-12-08-virtualOpenDay/2021-12-08-virtualOpenDay-ds.md)
-
+- Overview of the course in <a href="2021-12-08-virtualOpenDay/2021-12-08-virtualOpenDay-ds.html" target="new">2021 Virtual Open Day slides</a>
+([markdown](2021-12-08-virtualOpenDay/2021-12-08-virtualOpenDay-ds.md))
 
 - [MSc Cognitive Neuroscience Prospectus](https://www.nottingham.ac.uk/pgstudy/course/taught/cognitive-neuroscience-msc)
